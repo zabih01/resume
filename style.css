@@ -1,0 +1,20 @@
+*{
+    margin: none;
+}
+.background{
+    height:1400px;
+    width: 100%;
+    background:linear-gradient(360deg,white,rgba(21, 21, 94, 0.81));
+    padding-left: 10px;
+
+}
+.abc img{
+    height: 80px;
+    width:80px;
+    margin-left: 416px;
+    margin-top: 10px;  
+}
+.abc h1{
+    margin-left: 380px;
+}
+
